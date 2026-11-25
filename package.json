@@ -1,0 +1,9 @@
+{
+  "name": "ai-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "check": "node --check worker/index.js"
+  }
+}
